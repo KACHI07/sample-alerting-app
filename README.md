@@ -1,1 +1,1 @@
-# sample-alerting-app
+# sample-alerting for debt app
